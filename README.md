@@ -14,7 +14,8 @@ ___
 | 1  | **고가용성을 위한 네트워크 구성 요소 이중화** | HSRP 프로토콜을 통한 네트워크 이중화 | CISCO, HSRP, 네트워킹 | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/Ungbbi/NSM) | 2023-09-13 |
 | 2  | **Average Load Linux** | VirtualBox Ubuntu VM 환경에서의 Linux 부하 최소화 | Linux, VirtualBox | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/Ungbbi/averageLoadLinuxM) | 2024-09-23 |
 | 3  | **Docker 이미지 최적화** | Docker 이미지를 최적화 하기위한 방법들 | Linux, VirtualBox, Docker | 개인 프로젝트 | [GitHub 링크](https://github.com/Ungbbi/Docker) | 2024-09-24 |
-
+| 4  | **Minikube를 사용한 Spring Application 배포** | SpringApplication을 k8s를 통해 배포 | Docker, K8S, Linux | 개인 프로젝트 | [GitHub 링크](https://github.com/Ungbbi/dockerNkubernetes/tree/main/k8sMinikube) | 2024-10-03
+ 
 <br>
 
 ### ✨ 백엔드 프로젝트 목록 ✨
